@@ -1,12 +1,6 @@
-# revision 32626
-# category Package
-# catalog-ctan /macros/latex/contrib/uowthesistitlepage
-# catalog-date 2014-01-10 08:34:25 +0100
-# catalog-license lppl1.3
-# catalog-version 2.0
 Name:		texlive-uowthesistitlepage
-Version:	2.0
-Release:	5
+Version:	3.0.1
+Release:	1
 Summary:	Title page for dissertations at the University of Wollongong
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uowthesistitlepage
@@ -37,10 +31,8 @@ of each PhD Thesis.
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/tex/latex/uowthesistitlepage/uowthesistitlepage.sty
-%doc %{_texmfdistdir}/doc/latex/uowthesistitlepage/README
-%doc %{_texmfdistdir}/doc/latex/uowthesistitlepage/uowthesistitlepage_doc.pdf
-%doc %{_texmfdistdir}/doc/latex/uowthesistitlepage/uowthesistitlepage_doc.tex
+%{_texmfdistdir}/tex/latex/uowthesistitlepage
+%doc %{_texmfdistdir}/doc/latex/uowthesistitlepage
 
 #-----------------------------------------------------------------------
 %prep
