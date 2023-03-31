@@ -1,6 +1,6 @@
 Name:		texlive-uowthesistitlepage
 Version:	54512
-Release:	1
+Release:	2
 Summary:	Title page for dissertations at the University of Wollongong
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uowthesistitlepage
