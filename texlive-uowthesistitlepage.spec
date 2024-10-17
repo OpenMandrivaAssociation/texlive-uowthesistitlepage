@@ -3,7 +3,7 @@ Version:	54512
 Release:	2
 Summary:	Title page for dissertations at the University of Wollongong
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uowthesistitlepage
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/uowthesistitlepage
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/uowthesistitlepage.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/uowthesistitlepage.doc.r%{version}.tar.xz
